@@ -246,7 +246,7 @@ git commit -m 'first commit'
 \cf0 \
 \
 ### Step 6\
-\
-\
+\git add .
+\git commit -m 'starting a menu'
 ### Step 7\
 *** DO NOT RECORD STEP 7 ***}
